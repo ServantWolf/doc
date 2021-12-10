@@ -18,13 +18,17 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | 2FAuth | Manage and Generate 2FA Codes | [Upstream](https://github.com/Bubka/2FAuth) |  |
 | 10er10 |  | [Upstream](https://github.com/dready92/10er10) |  |
 | [AbanteCart](https://abantecart.com) | Create an e-commerce website |  | [Package Draft](https://github.com/YunoHost-Apps/abantecart_ynh) |
+| [Access to Memory (AtoM)](https://www.accesstomemory.org/) | Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. | [Upstream](https://github.com/artefactual/atom) |  |
 | adhocserver | An ad hoc server for the Sony PSP |  | [Package Draft](https://github.com/matlink/adhocserver_ynh) |
 | [agora](https://www.agora-project.net/) | Create collaborative and creative digital space |  | [Package Draft](https://github.com/YunoHost-Apps/agora_ynh) |
 | [Ajenti](https://ajenti.org) |  | [Upstream](https://github.com/ajenti/ajenti/) |  |
 | Akaunting | Manage payments/invoices/expenses | [Upstream](https://github.com/akaunting/akaunting) |  |
 | Anki Sync Server | a personal Anki server |[Upstream](https://github.com/ankicommunity/anki-sync-server) |  |
 | [AnonAddy](https://anonaddy.com/) | Anonymous email forwarding - Create Unlimited Email Aliases For Free | [Upstream](https://github.com/anonaddy/anonaddy) |  |
+| [Apache Superset](https://superset.apache.org/) | Apache Superset is a Data Visualization and Data Exploration Platform | [Upstream](https://github.com/apache/superset) |  |
 | [askbot](https://askbot.com/) | Questions and answers |  | [Package Draft](https://github.com/zamentur/askbot_ynh) |
+| [Archivematica](https://www.archivematica.org/) | Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. | [Upstream](https://github.com/artefactual/archivematica) |  |
+| [ArchivesSpace](https://archivesspace.org/) | Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. | [Upstream](https://github.com/archivesspace/archivesspace) |  |
 | [Astral](https://astralapp.com/) | Organize Your GitHub Stars With Ease |[Upstream](https://github.com/astralapp/astral)|  |
 | [Baserow](https://baserow.io/) | Open source no-code database tool and Airtable alternative. | [Upstream](https://gitlab.com/bramw/baserow) |  |
 | [Beeper](https://www.beeper.com/) | A unified inbox for 15 chat networks. | [Upstream](https://gitlab.com/beeper) |  |
@@ -43,6 +47,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | changedetection.io | Self-hosted open source change monitoring of web pages | [Upstream](https://github.com/dgtlmoon/changedetection.io) |  |
 | [CheckUp](https://sourcegraph.github.io/checkup) |  | [Upstream](https://github.com/sourcegraph/checkup) |  |
 | [Citadel-suite](https://www.citadel.org) | Groupware platform |  |  |
+| [CKAN](https://ckan.org/) | A tool for making open data websites | [Upstream](https://github.com/ckan/ckan) |  |
 | [CloudTube](https://tube.cadence.moe/) | CloudTube front-end for YouTube | [Upstream](https://git.sr.ht/~cadence/cloudtube) |  |
 | [Cockpit](https://cockpit-project.org/) |  |  | [Package Draft](https://github.com/YunoHost-Apps/cockpit_ynh) |
 | coin | Member dashboard for non profit ISP | [Upstream](https://code.ffdn.org/FFDN/coin/) | [Package Draft](https://github.com/YunoHost-Apps/coin_ynh) |
@@ -78,6 +83,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Federated wiki](http://fed.wiki.org/view/welcome-visitors/view/federated-wiki) | Farm for fedwiki sites | [Upstream](https://github.com/fedwiki) |  |
 | [Ferdi server](https://getferdi.com) | Messaging aggregation | [Upstream](https://github.com/getferdi/server) |  |
 | [FEX](https://fex.rus.uni-stuttgart.de/) |  |  |  |
+| [FIDI](https://docs.firefly-iii.org/data-importer) | Import data from banks to Firefly |  |  |
 | [Filestash](https://www.filestash.app/) |  | [Upstream](https://github.com/mickael-kerjean/filestash) |  |
 | [FilePizza](https://file.pizza/) |  | [Upstream](https://github.com/kern/filepizza) |  |
 | [fishnet](https://lichess.org/get-fishnet) | Distributed Stockfish analysis for lichess.org | [Upstream](https://github.com/niklasf/fishnet) |  |
@@ -90,6 +96,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | Framaestro_hub | Online service aggregator hub | [Upstream](https://github.com/mozilla/togetherjs.git) | [Package Draft](https://github.com/YunoHost-Apps/framaestro_hub_ynh) |
 | [freeboard](https://freeboard.io/) | A real-time dashboard builder for IOT |  | [Package Draft](https://github.com/YunoHost-Apps/freeboard_ynh) |
 | [freepbx](https://freepbx.org) | VOIP |  | [Package Draft](https://github.com/YunoHost-Apps/freepbx_ynh) |
+| [Freescout](https://freescout.net/) |  Helpdesk & Shared Mailbox |  | [Upstream](https://github.com/freescout-helpdesk/freescout) |
 | [ftssolr](https://wiki.dovecot.org/Plugins/FTS/Solr) | Full-text search via IMAP through a Solr indexing server |  | [Package Draft](https://github.com/YunoHost-Apps/ftssolr_ynh) |
 | [Gancio](https://gancio.org/) |  | [Upstream](https://framagit.org/les/gancio) |  |
 | gateone | HTML5-powered terminal emulator and SSH client |  | [Package Draft](https://github.com/Kloadut/gateone_ynh) |
@@ -233,6 +240,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [qBittorrent](https://www.qbittorrent.org/) |  | [Upstream](https://github.com/qbittorrent/qBittorrent) |  |
 | [racktables](https://racktables.org) |  | [Upstream](https://github.com/RackTables/racktables) |  |
 | Race for the galaxy | | [Upstream](https://github.com/bnordli/rftg) | |
+| Redash | Connect to any data source, easily visualize, dashboard and share your data. | [Upstream](https://github.com/getredash/redash) | |
 | [redmine](https://www.redmine.org/) | A flexible project management web application |  | [Package Draft](https://github.com/YunoHost-Apps/redmine_ynh) |
 | remoteStorage | A remoteStorage server implementation written in PHP | [Upstream](https://github.com/fkooman/php-remote-storage) | [Package Draft](https://github.com/YunoHost-Apps/RemoteStorage_ynh) |
 | [Request Tracker](https://bestpractical.com) |  | [Upstream](https://github.com/bestpractical/rt) |  |
@@ -254,6 +262,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | scm-manager | Share and manage Git, Mercurial and Subversion repositories |  | [Package Draft](https://github.com/drfred1981/scm-manager_ynh) |
 | scrumblr | Software for notes |  | [Package Draft](https://github.com/YunoHost-Apps/scrumblr_ynh) |
 | [Scuttlebutt Pub](https://www.scuttlebutt.nz/contributing) |  |  |  |
+| [SearXNG](https://searxng.github.io/searxng/) | Fork of SearX, a privacy-respecting metasearch engine | [Upstream](https://github.com/searxng/searxng) |  |
 | [seenthis](https://www.seenthis.net/) | Short-blogging destiné à la veille d’actualité |  | [Package Draft](https://github.com/magikcypress/seenthis_ynh) |
 | [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki) | lets you store and query data with­in the [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki)'s pages | [Upstream](https://github.com/SemanticMediaWiki/SemanticMediaWiki) |  |
 | [shadowsocks](https://shadowsocks.org) | A SOCKS5 proxy to protect your Internet traffic |  | [Package Draft](https://github.com/YunoHost-Apps/shadowsocks_ynh) |
@@ -323,6 +332,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | Wisemapping | An online mind mapping editor | [Upstream](https://bitbucket.org/wisemapping/wisemapping-open-source) | [Package Draft](https://github.com/YunoHost-Apps/wisemapping_ynh) |
 | WildDuck | Opinionated email server | [Upstream](https://github.com/nodemailer/wildduck) |  |
 | WorkAdventure | A web-based collaborative workspace for small to medium teams | [Upstream](https://github.com/thecodingmachine/workadventure) |  |
+| [xBrowserSync](https://www.xbrowsersync.org/) | A self-hosted bookmark sync tool, with browser plugins and mobile clients available | [Upstream](https://github.com/xbrowsersync/api) |  |
 | Xibo | A FLOSS digital signage solution | [Upstream](https://github.com/xibosignage) |  |
 | [Xonotic](https://xonotic.org) |  | [Upstream](https://gitlab.com/xonotic) |  |
 | yacy | Free and decentrelized search engine |  | [Package Draft](https://github.com/YunoHost-Apps/yacy_ynh) |
